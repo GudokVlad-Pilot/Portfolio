@@ -1,8 +1,8 @@
 .navbar {
     /* position: fixed; */
     width: 100%;
-    height: 50px;
-    background-color: plum ;
+    height: 100px;
+    background-color: rgb(230, 230, 230);
     color: white;
     display: flex;
     align-items: center;
