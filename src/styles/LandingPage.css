@@ -1,7 +1,6 @@
 .landingPage {
     display: flex;
-    padding: 50px 100px;
+    padding: 0 50px;
     justify-content: space-between;
     flex-wrap: wrap;
-    background-color: royalblue;
 }
