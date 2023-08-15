@@ -8,9 +8,9 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Routes>
+      {/* <Routes>
         <Route path='/' element={<LandingPage />} />
-      </Routes>
+      </Routes> */}
     </div>
   );
 }
