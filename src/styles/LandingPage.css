@@ -1,6 +1,6 @@
 .landingPage {
     display: flex;
-    padding: 0 50px;
+    padding: 70px 50px;
     justify-content: space-between;
     flex-wrap: wrap;
 }
