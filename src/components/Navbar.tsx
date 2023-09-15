@@ -3,7 +3,7 @@ import "../styles/Navbar.css";
 
 const Navbar = () => {
     return (
-        <div className="navbar">
+        <div className="navbar" >
             <span className="navButtonBorderLeft"><Link className="link" to="/experience">Experience</Link></span>
             <span className="navButton"><Link className="link" to="/projects">Projects</Link></span>
             <span className="logo"><Link className="linkHome" to="/">GudokVlad</Link></span>
